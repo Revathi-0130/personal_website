@@ -200,7 +200,7 @@ export default function Home() {
             </a>
 
             <a
-              href="/resume/Revathi_Resume.pdf"
+              href="/resume/revathi_resume.pdf"
               target="_blank"
               rel="noreferrer"
               className="button-resume"
